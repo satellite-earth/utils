@@ -1,0 +1,20 @@
+{
+  "name": "@satellite-earth/utils",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git push production master"
+  },
+  "dependencies": {
+    "eth-sig-util": "^3.0.0",
+    "keccak256": "^1.0.2",
+    "utf8": "^3.0.0"
+  },
+  "author": {
+    "name": "Stuart Bowman",
+    "email": "sbowman@satellite.earth"
+  },
+  "license": "ISC"
+}
